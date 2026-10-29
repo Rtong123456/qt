@@ -1,0 +1,6 @@
+keyPressEvent key= 53 text= "5"
+keyPressEvent key= 16777219 text= "\b"
+keyPressEvent key= 16777220 text= "\r"
+keyPressEvent key= 0 text= "%"
+keyPressEvent key= 16777223 text= "\u007F"
+keyPressEvent key= 16777216 text= "\u001B"
